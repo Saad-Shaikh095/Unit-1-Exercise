@@ -7,7 +7,7 @@ int main()
     int a, b;
     a = 10;
     b = 20;
-        printf("%d\n", a + b); // Addition
+        printf("%d\n", a + b); // Addition to get the answer 
         printf("%d\n", a - b); // Substraction
         printf("%d\n", a * b); // Multiplication
         printf("%d\n", a / b); // Division
